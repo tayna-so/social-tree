@@ -18,7 +18,7 @@ Projeto exclusivo de agregador de links baseado no projeto DevLinks da Rocketsea
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Social Tree" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Social Tree é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://tayna-so.github.io/social-tree/)
 
 ## 🔖 Layout
 
